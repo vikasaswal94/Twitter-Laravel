@@ -19,9 +19,9 @@ If you're not in the mood to read, [Laracasts](https://laracasts.com) contains o
 
 ## Setup
 
-Commands
-
-- **[composer create-project laravel/laravel vikas_assignment  "5.5.*" --prefer-dist]*
+- Run this command composer create-project laravel/laravel vikas_assignment  "5.5.*" --prefer-dist
+for Laravel 5.5 Project setup
+- Then change the congifuration of Twitter credential in app/config/constant.php based on twitter developer account credential.
 
 ## Contributing
 
