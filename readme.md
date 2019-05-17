@@ -13,15 +13,3 @@ If you're not in the mood to read, [Laracasts](https://laracasts.com) contains o
 - Run this command composer create-project laravel/laravel vikas_assignment  "5.5.*" --prefer-dist
 for Laravel 5.5 Project setup
 - Then change the congifuration of Twitter credential in app/config/constant.php based on twitter developer account credential.
-
-## Contributing
-
-Thank you for considering contributing to the Twitter Laravel Project.
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
